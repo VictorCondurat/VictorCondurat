@@ -1,5 +1,4 @@
-Hello, I'm Victor Condurat, a Fullstack Software Engineer from Iasi, Romania. I specialize in developing scalable and high-performance software solutions. I thrive on challenging myself with complex problems and am continuously learning new technologies to enhance my skills.
-
+Hi, I'm Victor Condurat, a Fullstack Software Engineer from Iasi, Romania. I focus on breaking down complex problems and understanding how software components work together to build scalable architectures
 ## 💻 Technical Skills
 - **Languages:** JavaScript (ES6+), SQL, Python
 - **Frontend:** HTML5, CSS3, React
