@@ -1,15 +1,16 @@
+## 👋 Introduction
+Hello, I'm Victor Condurat, a Fullstack Software Engineer from Iasi, Romania. I specialize in developing scalable and high-performance software solutions. I thrive on challenging myself with complex problems and am continuously learning new technologies to enhance my skills.
 
-<!--
-**VictorCondurat/VictorCondurat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technical Skills
+- **Languages:** JavaScript (ES6+), SQL, Python
+- **Frontend:** HTML5, CSS3, React
+- **Backend:** Node.js
+- **DevOps:** Docker, AWS
+- **Tools:** Git, Browserify
 
-Here are some ideas to get you started:
+## 📬 Connect with Me
+Feel free to connect with me for collaborations or any professional inquiries:
+- **LinkedIn:** [victor-condurat](https://www.linkedin.com/in/victor-condurat)
+- **Email:** [victorcondurat@gmail.com](mailto:victorcondurat@gmail.com)
+- **Portfolio:** [victorcondurat.dev](https://victorcondurat.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
